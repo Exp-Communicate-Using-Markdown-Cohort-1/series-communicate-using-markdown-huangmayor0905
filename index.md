@@ -9,3 +9,7 @@
 ##### Try to Use Header 5
 
 ###### Try to Use Header 6
+
+# Try to Add an Image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
